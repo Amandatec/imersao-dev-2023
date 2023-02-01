@@ -1,6 +1,6 @@
 # Imersãodev 2023 🚀 
 
-Projects created during this week´s imersion promoted by Alura.
+Projects created during this week´s immersion promoted by Alura.
 
 ## 🛠️ Tecnology
 
