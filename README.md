@@ -14,6 +14,8 @@ Project developed with these technologies:
 
 * [**Currency Converter**](https://currencyconverteramandatec.netlify.app/)
 * [**Mentalist**](https://mentalistamandatec.netlify.app/)
+* [**AmandaFlix**](https://)
+
 
  
  ##  Contact me
